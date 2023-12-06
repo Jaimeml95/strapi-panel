@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sudaderas",
+  "info": {
+    "singularName": "sudadera",
+    "pluralName": "sudaderas",
+    "displayName": "Sudadera"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "talla": {
+      "type": "string"
+    }
+  }
+}
